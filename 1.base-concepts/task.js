@@ -3,7 +3,7 @@ function solveEquation(a, b, c) {
   let arr = [];
   let x1;
   let x2;
-  
+
   let d = b ** 2 - 4 * a * c;
   if (d < 0) {
     arr = [];
